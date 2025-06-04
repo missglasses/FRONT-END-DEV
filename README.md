@@ -22,7 +22,7 @@
 
 #### Frameworks & Libraries
 - **React** ✓
-- **Vue.js** (on it)
+- **Vue.js** ✓
 - **Angular** (introduced only..or?)
 - **Svelte**
 - **SolidJS**
