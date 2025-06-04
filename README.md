@@ -1,9 +1,9 @@
 ## Front End Development
 
 #### Tech
-- **HTML**
-- **CSS**
-- **JavaScript (JS)**
+- **HTML** ✓
+- **CSS** ✓
+- **JavaScript (JS)** ✓
   - DOM Manipulation ✓
   - Fetch API ✓ (to be reviewed)
   - AJAX (to be reviewed)
