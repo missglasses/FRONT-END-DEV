@@ -32,6 +32,47 @@
 - **CSS Writing:** Tailwind CSS (introduced only..or?)
 - **CSS Architecture:** BEM (Block Element Modifier)
 - **CSS Preprocessors:** Sass, PostCSS
-- 
-###### *To be continued ...*
 
+**Module Bundlers**
+- Vite  ✓
+- SWC  
+- Esbuild  
+- Parcel  
+- Webpack  
+- Rollup
+
+**Linters & Formatters**
+- ESLint  
+- Prettier ✓
+
+---
+
+### Other Tools & Concepts
+- Web Components  
+- Type Checkers: TypeScript
+
+**Server-Side Rendering (SSR):**
+- Nuxt (Vue)  
+- Next.js (React)  
+- Astro  
+- SvelteKit  
+- Angular Universal
+
+**Routing:**
+- React Router  ✓
+- Nuxt Router  
+- Angular Router  
+- SvelteKit Router
+
+**Progressive Web Apps (PWAs):**  
+
+**Static Site Generators:**
+- Next.js  
+- Astro  
+- VuePress  
+- Eleventy
+
+**Mobile App Frameworks:**
+- React Native (introduced only..or?)
+- Flutter  (introduced only)
+- Ionic
