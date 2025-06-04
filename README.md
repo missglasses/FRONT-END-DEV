@@ -8,7 +8,7 @@
   - Fetch API ✓ (to be reviewed)
   - AJAX (to be reviewed)
 
-#### 🔧 Version Control
+#### Version Control
 - **VCS:** Git 
 - **VCS Hosting Platforms:**
   - GitHub ✓
