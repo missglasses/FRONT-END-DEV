@@ -1,3 +1,6 @@
 [submodule "Frameworks/React/my-react-app"]
 	path = Frameworks/React/my-react-app
 	url = https://github.com/missglasses/WEBDEV-Review.git
+[submodule "Frameworks/React/BasicRoutingReview"]
+	path = Frameworks/React/BasicRoutingReview
+	url = https://github.com/missglasses/WEBDEV-Review.git
