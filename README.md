@@ -1,6 +1,6 @@
 ## Front End Development
 
-### Tech
+#### Tech
 - **HTML**
 - **CSS**
 - **JavaScript (JS)**
@@ -8,19 +8,19 @@
   - Fetch API ✓ (to be reviewed)
   - AJAX (to be reviewed)
 
-### 🔧 Version Control
+#### 🔧 Version Control
 - **VCS:** Git 
 - **VCS Hosting Platforms:**
   - GitHub ✓
   - GitLab
   - Bitbucket
 
-### 📦 Package Managers
+#### Package Managers
 - **npm** ✓
 - **pnpm**
 - **yarn**
 
-### ⚙️ Frameworks & Libraries
+#### Frameworks & Libraries
 - **React** ✓
 - **Vue.js** (on it)
 - **Angular** (introduced only..or?)
@@ -28,9 +28,9 @@
 - **SolidJS**
 - **Qwik**
 
-### 🎨 Styling
+#### Styling
 - **CSS Writing:** Tailwind CSS (introduced only..or?)
 - **CSS Architecture:** BEM (Block Element Modifier)
 - **CSS Preprocessors:** Sass, PostCSS
 
-To be continued ....
+#To be continued ....
