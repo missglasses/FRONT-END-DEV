@@ -45,7 +45,6 @@
 - ESLint  
 - Prettier ✓
 
----
 
 ### Other Tools & Concepts
 - Web Components  
