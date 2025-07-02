@@ -89,5 +89,7 @@ function removeElement(newArr) {
 removeElement(concept); //[ 'arrays', 'can', 'be', 'MUTATED' ]
 console.log(concept); //[ 'arrays', 'can', 'be' ]
 
-
+//Nested arrays
+const numberClusters = [[1, 2], [3, 4], [5, 6]];
+const target = numberClusters[2][1];
 
