@@ -78,3 +78,36 @@ const plantNeedsWater = (day) => {
 };
 //conside body arrow functions
 const plantNeedsWater = day => day === 'Wednesday';
+
+const checkThatTwoPlusTwoEqualsFourAMillionTimes = () => {
+  for(let i = 1; i <= 1000000; i++) {
+    if ( (2 + 2) != 4) {
+      console.log('Something has gone very wrong :( ');
+    }
+  }
+};
+
+// assigning the function to a new variable 
+const isTwoPlusTwo = checkThatTwoPlusTwoEqualsFourAMillionTimes;
+isTwoPlusTwo();
+console.log(isTwoPlusTwo.name);//prints the name of original func
+
+//func as param
+const addTwo = num => {
+  return num + 2;
+}
+
+const checkConsistentOutput = (func, val) => {
+const checkA = val+2;
+const checkB = func(val);
+}
+
+  if (checkA === checkB) {            
+    return checkB;             
+  } else {
+    return 'inconsistent results';  
+  }
+}
+
+console.log(checkConsistentOutput(addTwo, 10));
+
