@@ -1,4 +1,4 @@
-##### (Some files might contain errors as I compiled all code snippets into one file,(grouped by topic))
+##### (Some files might contain errors as I compiled all code snippets into one file(grouped by topic))
 
 #### 00 - Basics ✔
 
