@@ -1,4 +1,4 @@
-let favoriteCoordinates: [number, number, string, number, number, string] = [
+let favoriteCoordinates: [number, number, string, number, number, string] = [ //<--array with different types
   40,
   43.2,
   "N",
