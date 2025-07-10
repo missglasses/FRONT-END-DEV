@@ -16,13 +16,23 @@ export default App;
 // const MAX_HEIGHT = Dimensions.get('window').height;
 
 
+// export const styles = StyleSheet.create({
+//   layout: {
+//     flex: 1, //replacing fixed dimensions
+//     backgroundColor: '#e5e5e5',
+//   },
+//   box: {
+//     flex: 1,  //replacing fixed dimensions
+//     backgroundColor: 'black',
+//   },
+// });
 export const styles = StyleSheet.create({
   layout: {
-    flex: 1, //replacing fixed dimensions
+    flex: 1, // takes all available screen space
     backgroundColor: '#e5e5e5',
   },
   box: {
-    flex: 1,  //replacing fixed dimensions
-    backgroundColor: 'black',
+    flex: 1, // default equal distribution
+    // width and height removed - flex handles dimensions
   },
 });
